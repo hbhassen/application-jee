@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-web>
+    <security-domain>idp-jaspic-domain</security-domain>
+    <context-root>simple-secured-app</context-root>
+</jboss-web>
